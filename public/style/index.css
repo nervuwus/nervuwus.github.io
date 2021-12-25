@@ -1,7 +1,7 @@
-@import url("./button.css");
-@import url("./responsive/small.css");
-@import url("./responsive/medium.css");
-@import url("./responsive/big.css");
+@import url("https://merytek.github.io/public/style/button.css");
+@import url("https://merytek.github.io/public/style/responsive/small.css");
+@import url("https://merytek.github.io/public/style/responsive/medium.css");
+@import url("https://merytek.github.io/public/style/responsive/big.css");
 
 :root {
     position: fixed;
