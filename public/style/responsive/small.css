@@ -1,0 +1,5 @@
+@media only screen and (max-width: 439px) {
+    :root {
+        --gap: 10%
+    }
+}

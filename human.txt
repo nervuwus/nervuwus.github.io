@@ -1,0 +1,12 @@
+/* TEAM */
+Moi: Nervous Nightingale
+Site: nightingalenervous@gmail.com
+Twitter: @aether_fr
+Location: France
+
+/* SITE */
+
+Last Update: 2021/12/
+Standards: HTML5, CSS, ECMASCRIPT6
+Components: Aucun
+Software: Visual Studio Code
