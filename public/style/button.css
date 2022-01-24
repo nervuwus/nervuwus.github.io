@@ -1,7 +1,3 @@
-@import "./responsive/small.css";
-@import "./responsive/medium.css";
-@import "./responsive/big.css";
-
 :root {
     --gap: 35%
 }
