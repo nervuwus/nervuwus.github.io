@@ -1,0 +1,11 @@
+.social-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5%;
+    height: 100px;
+}
+
+i {
+    font-size: 32px;
+}

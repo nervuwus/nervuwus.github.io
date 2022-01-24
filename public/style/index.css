@@ -1,17 +1,20 @@
-@import url("https://merytek.github.io/public/style/button.css");
-@import url("https://merytek.github.io/public/style/responsive/small.css");
-@import url("https://merytek.github.io/public/style/responsive/medium.css");
-@import url("https://merytek.github.io/public/style/responsive/big.css");
-
 :root {
-    position: fixed;
+
+    /*cursor: url("../ressource/cursor/Normal\ Select.cur"), default;*/
+
     padding: 0;
     margin: 0;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 150%;
     background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+body::--webkit-scrollbar {
+    display: none;
 }
 
 .stars {
@@ -60,10 +63,6 @@
     margin-left: 90%;
     animation-duration: 0.7s;
     animation-name: twinkle;
-}
-
-body::-webkit-scrollbar {
-    display: none;
 }
 
 h1 {
