@@ -1,0 +1,49 @@
+:root {
+    --size: 200px;
+    --header-top: 4%;
+    --body-top: 4%;
+}
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #FFF;
+}
+
+.card:hover {
+    border-color: #fff;
+}
+
+.card-container {
+    border-color: #000;
+    border-style: solid;
+    width: 500px;
+    height: auto;
+    background-color: #333;
+}
+
+.card-header {
+    position: relative;
+    top: var(--header-top);
+    width: var(--size);
+    height: var(--size);
+
+    background-image: url("../../ressource/images/miku.png"),
+        linear-gradient(180deg, #FE0000 16.66%,
+            #FD8C00 16.66%, 33.32%,
+            #FFE500 33.32%, 49.98%,
+            #119F0B 49.98%, 66.64%,
+            #0644B3 66.64%, 83.3%,
+            #C22EDC 83.3%);
+
+    background-repeat: no-repeat;
+    background-size: var(--size) var(--size);
+    border-radius: 50%;
+    border-color: #000;
+    border-style: solid;
+}
+
+.card-body {
+    position: relative;
+    top: var(--body-top)
+}
