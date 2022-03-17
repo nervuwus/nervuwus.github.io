@@ -1,0 +1,31 @@
+.social-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5%;
+    height: 100px;
+}
+
+i {
+    font-size: 32px;
+}
+
+a {
+    color: #000;
+}
+
+a:visited {
+    color: #000;
+}
+
+.bi-youtube:hover {
+    color: #dc143c;
+}
+
+.available:hover {
+    cursor: pointer;
+}
+
+.not-available:hover {
+    cursor: not-allowed;
+}
