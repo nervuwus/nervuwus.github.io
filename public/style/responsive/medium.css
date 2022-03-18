@@ -1,5 +1,8 @@
 @media only screen and (min-width: 440px) and (max-width: 600px) {
     :root {
-        --gap: 20%
+        --gap: 20%;
+        --size: 600px;
+        --header-top: 5%;
+        --body-top: 5%
     }
 }
