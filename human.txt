@@ -6,7 +6,7 @@ Location: France
 
 /* SITE */
 
-Last Update: 2022/03/18
+Last Update: 2022/03/24
 Standards: HTML5, CSS3, ECMASCRIPT6
 Components: Aucun
 Software: Atom
