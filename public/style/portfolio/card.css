@@ -2,6 +2,7 @@
     --size: 200px;
     --header-top: 4%;
     --body-top: 4%;
+    --container-size: 500px;
 }
 
 .card {
@@ -18,7 +19,7 @@
 .card-container {
     border-color: #000;
     border-style: solid;
-    width: 500px;
+    width: var(--container-size);
     height: auto;
     background-color: #333;
 }
