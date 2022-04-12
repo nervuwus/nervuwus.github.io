@@ -8,6 +8,7 @@
 
 i {
     font-size: 32px;
+    text-align: center;
 }
 
 a {
@@ -18,8 +19,12 @@ a:visited {
     color: #000;
 }
 
-.bi-youtube:hover {
+.fa-youtube:hover {
     color: #dc143c;
+}
+
+.fa-gitlab:hover {
+    color: #f67828;
 }
 
 .available:hover {
