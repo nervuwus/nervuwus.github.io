@@ -1,12 +1,12 @@
 /* TEAM */
 Moi: Nervous Nightingale
-Site: nightingalenervous@gmail.com
-Twitter: Aucun
+Email: nightingalenervous@gmail.com
 Location: France
 
 /* SITE */
 
-Last Update: 2022/04/12
+Last Update: 2022/04/13
+Language: Français / English
 Standards: HTML5, CSS3, ECMASCRIPT6
 Components: Aucun
 Software: Atom
