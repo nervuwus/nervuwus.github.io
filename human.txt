@@ -5,7 +5,7 @@ Location: France
 
 /* SITE */
 
-Last Update: 2022/04/13
+Last Update: 2022/04/15
 Language: Français / English
 Standards: HTML5, CSS3, ECMASCRIPT6
 Components: Aucun
