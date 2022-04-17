@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /ressource/
-Disallow: /script/
-Disallow: /style/
