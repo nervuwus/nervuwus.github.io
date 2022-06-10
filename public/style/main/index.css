@@ -18,10 +18,24 @@ p {
     font-style: italic;
 }
 
-a {
-    color: #000;
+img {
+  height: 35px;
+  width: 35px
 }
 
-a:visited {
-    color: #000;
+.social-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5%;
+    height: 100px;
+}
+
+
+.available:hover {
+    cursor: pointer;
+}
+
+.not-available:hover {
+    cursor: not-allowed;
 }
