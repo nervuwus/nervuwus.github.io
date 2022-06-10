@@ -17,3 +17,11 @@ p {
     font-family: sans-serif;
     font-style: italic;
 }
+
+a {
+    color: #000;
+}
+
+a:visited {
+    color: #000;
+}
