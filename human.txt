@@ -1,12 +1,16 @@
 /* TEAM */
-Moi: Nervous Nightingale
+
+Pseudo: Nervous Nightingale
+Name: Riley
 Email: nightingalenervous@gmail.com
 Location: France
+GpG key: F0A911454C598AC0D7391E723E13356C1F9E3A1F
+GitHub: https://github.com/Merytek
 
 /* SITE */
 
-Last Update: 2022/04/15
+Last Update: 2022/06/10
 Language: Français / English
-Standards: HTML5, CSS3, ECMASCRIPT6
-Components: Aucun
+Standards: HTML5, CSS3
 Software: Atom
+Repo: https://github.com/Merytek/Merytek.github.io
