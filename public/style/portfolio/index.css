@@ -1,3 +1,11 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+a {
+  color: #33a8d6
+}
+
+a:visited {
+  color: #F9EE98
+}
