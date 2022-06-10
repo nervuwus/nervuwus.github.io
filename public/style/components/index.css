@@ -1,3 +1,7 @@
+@import "button.css";
+@import "background.css";
+@import "social.css";
+
 :root {
     cursor: url("../../ressource/cursors/base.cur"), default;
 }

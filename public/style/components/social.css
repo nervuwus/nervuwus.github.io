@@ -11,14 +11,6 @@ i {
     text-align: center;
 }
 
-a {
-    color: #000;
-}
-
-a:visited {
-    color: #000;
-}
-
 .fa-youtube:hover {
     color: #dc143c;
 }
