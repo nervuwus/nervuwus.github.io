@@ -5,12 +5,12 @@ Name: Riley
 Email: nightingalenervous@gmail.com
 Location: France
 GpG key: F0A911454C598AC0D7391E723E13356C1F9E3A1F
-GitHub: https://github.com/Merytek
+GitHub: https://github.com/nervuwus
 
 /* SITE */
 
-Last Update: 2022/06/10
+Last Update: 2022/16/10
 Language: Français / English
 Standards: HTML5, CSS3
 Software: Atom
-Repo: https://github.com/Merytek/Merytek.github.io
+Repo: https://github.com/nervuwus/nervuwus.github.io
