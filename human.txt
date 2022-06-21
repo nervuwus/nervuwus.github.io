@@ -9,7 +9,7 @@ GitHub: https://github.com/nervuwus
 
 /* SITE */
 
-Last Update: 2022/20/10
+Last Update: 2022/21/10
 Language: Français / English
 Standards: HTML5, CSS3
 Software: Atom
